@@ -1,0 +1,7 @@
+# Ignore source maps
+**/*.js.map
+
+# Ignore other dev files
+tsconfig.json
+.gitignore
+.npmignore

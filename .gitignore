@@ -1,0 +1,5 @@
+# Ignore source maps
+**/*.js.map
+
+node_modules
+dist

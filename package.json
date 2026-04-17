@@ -1,0 +1,17 @@
+{
+  "name": "reredd-cli",
+  "version": "2.1.23",
+  "description": "Premium Reddit automation CLI — Pre-compiled binaries.",
+  "bin": {
+    "reredd": "bin/reredd.js"
+  },
+  "files": [
+    "bin/"
+  ],
+  "optionalDependencies": {
+    "reredd-darwin-arm64": "2.1.22",
+    "reredd-darwin-x64": "2.1.22",
+    "reredd-linux-x64": "2.1.22",
+    "reredd-windows-x64": "2.1.22"
+  }
+}
