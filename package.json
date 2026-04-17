@@ -1,7 +1,15 @@
 {
   "name": "reredd-cli",
-  "version": "2.1.23",
+  "version": "2.1.24",
+  "homepage": "https://github.com/Yogesh-Dubey-Ayesavi/reredd-cli",
   "description": "Premium Reddit automation CLI — Pre-compiled binaries.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogesh-Dubey-Ayesavi/reredd-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yogesh-Dubey-Ayesavi/reredd-cli/issues"
+  },
   "bin": {
     "reredd": "bin/reredd.js"
   },
